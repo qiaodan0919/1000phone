@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BookList</title>
+    <script type="text/javascript" src="/static/js/jquery.js"></script>
+    <script type="text/javascript">
+        /**
+            $(function () {
+
+                $.getJSON("/api/books/", function (data) {
+
+                    console.log(data);
+
+                })
+
+            })
+         */
+
+        $(function () {
+
+            $("button").click(function () {
+
+                $.getJSON("/restwo/students/", function (data) {
+
+                    console.log(data);
+
+                    if (data['status'] === 200){
+                        var $ul = $("ul");
+
+                        var students = data['students'];
+                        console.log(students)
+                        for(var i=0; i < students.length; i++){
+                            var $li = $("<li></li>");
+                            $li.html(students[i]['s_name']);
+                            $li.appendTo($ul);
+                        }
+
+                    }
+
+                })
+
+            })
+
+        })
+
+    </script>
+</head>
+<body>
+
+
+<div id="container">
+
+    <button>ClickToLoad</button>
+
+    <ul>
+
+    </ul>
+
+</div>
+
+
+</body>
+</html>

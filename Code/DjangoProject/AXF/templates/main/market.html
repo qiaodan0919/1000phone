@@ -1,0 +1,121 @@
+{% extends 'base_main.html' %}
+{% load static %}
+
+{% block ext_css %}
+    {{ block.super }}
+    <link rel="stylesheet" href="{% static 'axf/main/css/market.css' %}">
+{% endblock %}
+
+{% block ext_js %}
+    <script type="text/javascript" src="{% static 'axf/main/js/mark.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+    <div id="market">
+        <aside>
+            <ul>
+                {% for foodtype in foodtypes %}
+                    <li>
+                        <a href="{% url 'one:market_with_params' typeid=foodtype.typeid childcid=0 order_rule=order_rule %}">{{ foodtype.typename }}</a>
+                        {% ifequal foodtype.typeid typeid %}
+                            <span class="yellowSlide"></span>
+                        {% endifequal %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </aside>
+        <div>
+            <section>手机网页
+                <nav>
+                    <ul>
+                        <li id="all_type"><span>全部分类 <div class="glyphicon glyphicon-chevron-down"></div></span></li>
+                        <li id='all_sort'><span>综合排序 <div class="glyphicon glyphicon-chevron-down"></div></span></li>
+                    </ul>
+                </nav>
+            </section>
+        </div>
+        <section>
+            <menu>
+                <ul>
+                    {% for good in good_list %}
+                        <li>
+                            <a href="#">
+                                <img src="{{ good.productimg }}" alt="{{ good.productname }}">
+                                <div class="shoppingInfo">
+                                    <p>{{ good.productlongname }}</p>
+                                    <p class="detailTag">
+                                        <span>精选</span>
+                                        <span></span>
+                                    </p>
+                                    <p class="unit">{{ good.specifics }}</p>
+                                    <p class="price">
+                                        <span>{{ good.price }}</span>
+                                        <s>{{ good.marketprice }}</s>
+                                    </p>
+                                </div>
+                            </a>
+                            <section>
+                                <button class="subShopping" goodid="{{ good.id }}">－</button>
+                                {% if is_login %}
+                                    <span class="num_span">
+                                    {% for cart in cart_list %}
+                                        {% ifequal cart.c_goods_id good.id%}
+                                            {{ cart.c_goods_num }}
+                                        {% endifequal %}
+                                    {% endfor %}
+
+                                    </span>
+                                    {% else %}
+                                    <span>*</span>
+                                {% endif %}
+
+                                <button class="addShopping" goodid="{{ good.id }}">＋</button>
+                            </section>
+                        </li>
+                    {% endfor %}
+
+                </ul>
+                <div id="all_view">
+                    <div>
+                        {% for typename in typenamelist %}
+                            {% ifequal childcid typename.1 %}
+                                <a href="{% url 'one:market_with_params' typeid=typeid childcid=typename.1 order_rule=order_rule %}">
+                                    <button class="btn btn-success">{{ typename.0 }}</button>
+                                </a>
+                            {% else %}
+                                <a href="{% url 'one:market_with_params' typeid=typeid childcid=typename.1 order_rule=order_rule %}">
+                                    <button class="btn btn-default">{{ typename.0 }}</button>
+                                </a>
+                            {% endifequal %}
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <div id="sort_view">
+                    <div>
+                        {% for order in order_rule_list %}
+                            {% ifequal order_rule order.1 %}
+                                <a href="{% url 'one:market_with_params' typeid=typeid childcid=childcid order_rule=order.1 %}">
+                                <button class="btn btn-success">
+                                    {{ order.0 }}
+                                </button>
+                                {% else %}
+                                    <a href="{% url 'one:market_with_params' typeid=typeid childcid=childcid order_rule=order.1 %}">
+                                <button class="btn btn-default">
+                                    {{ order.0 }}
+                                </button>
+                            </a>
+                            </a>
+                            {% endifequal %}
+
+
+                        {% endfor %}
+
+                    </div>
+                </div>
+            </menu>
+
+
+        </section>
+    </div>
+{% endblock %}

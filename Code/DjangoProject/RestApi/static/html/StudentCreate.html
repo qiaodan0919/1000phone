@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BookCreate</title>
+    <script type="text/javascript" src="/static/js/jquery.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+
+            $("button").click(function () {
+
+                var s_name = $("#s_name").val();
+
+                var s_age = $("#s_age").val();
+
+                $.post('/restwo/students/', {'s_name': s_name, 's_age': s_age}, function (data) {
+
+                    console.log(data);
+
+                    if (data['status'] === 201){
+                        window.open('/static/html/StudentsList.html', target="_self");
+                    }
+
+                } )
+
+            })
+
+        })
+
+
+    </script>
+</head>
+<body>
+
+    <div id="container">
+
+        <form action="#">
+
+            <span>Name：</span> <input type="text" id="s_name" placeholder="please input your book name">
+            <br>
+            <span>Price:</span> <input type="text" id="s_age" placeholder="please input your book price" >
+
+        </form>
+
+        <button>Create</button>
+
+    </div>
+
+</body>
+</html>

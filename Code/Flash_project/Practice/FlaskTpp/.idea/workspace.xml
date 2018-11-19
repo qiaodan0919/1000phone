@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f1df1f-edbc-4dd8-88ac-c11f08d8b955" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FlaskTpp$InsertCities.coverage" NAME="InsertCities Coverage Results" MODIFIED="1540291320903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="FlaskTpp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="FlaskTpp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="FlaskTpp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="FlaskTpp: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1828138840">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="68" />
+          <entry key="dummy" value="13" />
+          <entry key="py" value="8006" />
+          <entry key="txt" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="8006" />
+          <entry key="Scratch" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="admin_user" value="4" />
+          <entry key="cinema_address" value="1" />
+          <entry key="cinema_movie" value="1" />
+          <entry key="cinema_user" value="4" />
+          <entry key="cinera_user_permission" value="3" />
+          <entry key="city" value="6" />
+          <entry key="hall_movie" value="2" />
+          <entry key="json" value="1" />
+          <entry key="letter" value="2" />
+          <entry key="movie_order" value="4" />
+          <entry key="movie_user" value="7" />
+          <entry key="movies" value="7" />
+          <entry key="pem" value="5" />
+          <entry key="permission" value="3" />
+          <entry key="py" value="215" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="38" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="215" />
+          <entry key="Scratch" value="2" />
+          <entry key="UML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/tpp/views.py" />
+        <option value="$PROJECT_DIR$/tpp/models.py" />
+        <option value="$PROJECT_DIR$/apis/movie_admin/__init__.py" />
+        <option value="$PROJECT_DIR$/models/movie_user/__init__.py" />
+        <option value="$PROJECT_DIR$/models/__init__.py" />
+        <option value="$PROJECT_DIR$/models/movie_user/constant.py" />
+        <option value="$PROJECT_DIR$/models/movie_user/model_constant.py" />
+        <option value="$PROJECT_DIR$/App/ext.py" />
+        <option value="$PROJECT_DIR$/apis/movie_user/model_utils.py" />
+        <option value="$PROJECT_DIR$/App/utils.py" />
+        <option value="$PROJECT_DIR$/apis/movie_user/utils.py" />
+        <option value="$PROJECT_DIR$/apis/movie_user/movie_user_api.py" />
+        <option value="$PROJECT_DIR$/models/movie_user/movie_user_model.py" />
+        <option value="$PROJECT_DIR$/models/common/city_model.py" />
+        <option value="$PROJECT_DIR$/App/__init__.py" />
+        <option value="$PROJECT_DIR$/doc/code/InsertCities.py" />
+        <option value="$PROJECT_DIR$/apis/common/city_api.py" />
+        <option value="$PROJECT_DIR$/models/admin/admin_user_model.py" />
+        <option value="$PROJECT_DIR$/apis/admin/model_utils.py" />
+        <option value="$PROJECT_DIR$/apis/admin/admin_user_api.py" />
+        <option value="$PROJECT_DIR$/apis/api_constant.py" />
+        <option value="$PROJECT_DIR$/models/common/movie_model.py" />
+        <option value="$PROJECT_DIR$/apis/common/utils.py" />
+        <option value="$PROJECT_DIR$/apis/common/__init__.py" />
+        <option value="$PROJECT_DIR$/apis/admin/utils.py" />
+        <option value="$PROJECT_DIR$/apis/common/movie_api.py" />
+        <option value="$PROJECT_DIR$/models/cinema_admin/cinema_user_model.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/cinema_user_api.py" />
+        <option value="$PROJECT_DIR$/apis/__init__.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/model_utils.py" />
+        <option value="$PROJECT_DIR$/models/cinema_admin/cinema_address_model.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/utils.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/cinema_address_api.py" />
+        <option value="$PROJECT_DIR$/models/cinema_admin/cinema_movie_model.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/cinema_movie_api.py" />
+        <option value="$PROJECT_DIR$/models/cinema_admin/cinema_hall_model.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/cinema_hall_api.py" />
+        <option value="$PROJECT_DIR$/models/cinema_admin/cinema_hall_movie_model.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/__init__.py" />
+        <option value="$PROJECT_DIR$/apis/cinema_admin/cinema_movie_hall_api.py" />
+        <option value="$PROJECT_DIR$/apis/admin/cinema_auth_api.py" />
+        <option value="$PROJECT_DIR$/apis/admin/__init__.py" />
+        <option value="$PROJECT_DIR$/apis/movie_user/movie_hall_api.py" />
+        <option value="$PROJECT_DIR$/models/movie_user/movie_order_model.py" />
+        <option value="$PROJECT_DIR$/alipay_config/alipay_rsa_public_key.pem" />
+        <option value="$PROJECT_DIR$/alipay_config/app_rsa_private_key.pem" />
+        <option value="$PROJECT_DIR$/apis/movie_user/__init__.py" />
+        <option value="$PROJECT_DIR$/App/settings.py" />
+        <option value="$PROJECT_DIR$/apis/movie_user/movie_order_api.py" />
+        <option value="$PROJECT_DIR$/apis/movie_user/movie_order_pay_api.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FlaskTpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlaskTpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlaskTpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlaskTpp" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlaskTpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlaskTpp" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="movie_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/models/cinema_admin" />
+      <recent name="$PROJECT_DIR$/apis/cinema_admin" />
+      <recent name="$PROJECT_DIR$/doc/code/data" />
+      <recent name="$PROJECT_DIR$/App" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/uploads" />
+      <recent name="$PROJECT_DIR$/apis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.InsertCities">
+    <configuration name="InsertCities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskTpp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/code/InsertCities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FlaskTpp" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="FlaskTpp" />
+      <option name="target" value="$PROJECT_DIR$/manage.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.FlaskTpp" />
+      <item itemvalue="Python.InsertCities" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.InsertCities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f1df1f-edbc-4dd8-88ac-c11f08d8b955" name="Default Changelist" comment="" />
+      <created>1540198299389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540198299389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120354965" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20348205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32861805" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24972856" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32969433" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.14309484" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/cinema_user_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/permissions_constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/cinema_address_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/city">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/letter">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/cinera_user_permission">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/cinema_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/permission">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/common/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/common/movie_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/cinema_movie_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/movie_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/cinema_movie">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/movies">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/common/movie_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" selection-start-line="21" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/cinema_movie_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/cinema_user_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/cinema_address">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/cinema_hall_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/cinema_hall_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/cinema_movie_hall_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cinema_admin/cinema_hall_movie_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/admin/cinema_auth_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="69" column="15" lean-forward="true" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/movie_user/movie_hall_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/cinema_address_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/common/city_api.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/movie_admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/cinema_admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="72" lean-forward="true" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movies">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movies</OriginalElement>
+          <nodes>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall_movie</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.city</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinera_user_permission</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.permission</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.admin_user</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_movie</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.alembic_version</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_user</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movies</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movie_user</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_address</node>
+            <node x="" y="">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.letter</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2867281760113556" x="695.0" y="696.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/admin_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.admin_user">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.admin_user</OriginalElement>
+          <nodes>
+            <node x="294.03333333333336" y="1041.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall_movie</node>
+            <node x="364.375" y="742.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall</node>
+            <node x="581.375" y="347.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinera_user_permission</node>
+            <node x="648.375" y="48.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.permission</node>
+            <node x="65.375" y="622.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movies</node>
+            <node x="0.0" y="1053.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_movie</node>
+            <node x="350.27500000000003" y="0.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_user</node>
+            <node x="364.375" y="227.0">2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_address</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_address" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_user">
+              <point x="0.0" y="-172.5" />
+              <point x="462.875" y="202.0" />
+              <point x="458.77500000000003" y="202.0" />
+              <point x="0.0" y="88.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_movie" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movies">
+              <point x="47.5" y="-52.5" />
+              <point x="142.5" y="1016.0" />
+              <point x="135.125" y="1016.0" />
+              <point x="-69.75" y="184.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinera_user_permission" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.permission">
+              <point x="54.0" y="-52.5" />
+              <point x="0.0" y="40.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinera_user_permission" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_user">
+              <point x="-54.0" y="-52.5" />
+              <point x="635.375" y="202.0" />
+              <point x="531.1083333333333" y="202.0" />
+              <point x="72.33333333333337" y="88.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall_movie" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.movies">
+              <point x="-45.75" y="-64.5" />
+              <point x="339.78333333333336" y="1016.0" />
+              <point x="274.625" y="1016.0" />
+              <point x="69.75" y="184.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_movie" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_user">
+              <point x="-47.5" y="-52.5" />
+              <point x="47.5" y="1016.0" />
+              <point x="54.875" y="1016.0" />
+              <point x="54.875" y="202.0" />
+              <point x="386.4416666666667" y="202.0" />
+              <point x="-72.33333333333331" y="88.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall_movie" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall">
+              <point x="45.75" y="-64.5" />
+              <point x="431.28333333333336" y="1016.0" />
+              <point x="462.875" y="1016.0" />
+              <point x="0.0" y="64.5" />
+            </edge>
+            <edge source="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.hall" target="2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_address">
+              <point x="0.0" y="-64.5" />
+              <point x="0.0" y="172.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7867281760113555" x="285.0" y="711.0" />
+          <SelectedNodes>
+            <node>2ebb7a4d-c10a-479c-a3fe-302429f947d1.TABLE:FlaskTpp.cinema_address</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/Flask/lib/python3.6/site-packages/Cryptodome/IO/PEM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/Flask/lib/python3.6/site-packages/Cryptodome/PublicKey/RSA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="732" selection-start-line="732" selection-end-line="732" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/Flask/lib/python3.6/site-packages/alipay/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipay_config/alipay_rsa_public_key.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="448" selection-start-line="1" selection-start-column="448" selection-end-line="1" selection-end-column="448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/movie_user/movie_user_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipay_config/app_rsa_private_key.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/movie_user/movie_order_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/hall_movie">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ebb7a4d-c10a-479c-a3fe-302429f947d1/schema/FlaskTpp/table/movie_order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/movie_user/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/movie_user/movie_order_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="10" column="107" lean-forward="true" selection-start-line="10" selection-start-column="107" selection-end-line="10" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/movie_user/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/movie_user/movie_order_pay_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

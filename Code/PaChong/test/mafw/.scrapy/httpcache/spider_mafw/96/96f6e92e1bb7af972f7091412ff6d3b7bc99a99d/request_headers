@@ -1,0 +1,11 @@
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Connection: keep-alive
+Host: www.mafengwo.cn
+Referer: https://www.mafengwo.cn/mdd/
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Cache-Control: no-cache
+Postman-Token: 5faf4e19-e48b-4a4a-a6af-5f173e8f955d
+Cookie: Cookie=PHPSESSID=j66370h151d5744losn00m77i3 path=/ domain=.mafengwo.cn

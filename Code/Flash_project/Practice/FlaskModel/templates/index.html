@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+
+{% block header %}
+    <ul>
+        {% for customer in pagination.items %}
+            <li>{{ customer.c_name }}</li>
+        {% endfor %}
+    </ul>
+
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            {%- for page in pagination.iter_pages() %}
+                    {% if page %}
+                        {% if page == pagination.page %}
+                            <li class="active"><a href="#">{{ page }}</a></li>
+                        {% else %}
+                            <li><a href="{{ url_for('blue.get_customer') }}?page={{ page }}&per_page={{ per_page }}">{{ page }}</a></li>
+                        {% endif %}
+                    {% else %}
+                        <li><span class=ellipsis>…</span></li>
+                    {% endif %}
+            {%- endfor %}
+        </ul>
+    </nav>
+{% endblock %}

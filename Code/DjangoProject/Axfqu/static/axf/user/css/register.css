@@ -1,0 +1,10 @@
+header{
+    height: 1.5rem;
+    background: darkorange;
+    margin-bottom: 0.3rem;
+}
+
+.check_info{
+    position: absolute;
+    left: 6rem;
+}

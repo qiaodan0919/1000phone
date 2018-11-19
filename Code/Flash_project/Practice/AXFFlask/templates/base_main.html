@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% block ext_css %}
+    {{ super() }}
+{#    <link rel="stylesheet" href="{% static '/axf/main/css/main.css' %}">#}
+          <link rel="stylesheet" href="{{ url_for('static', filename='axf/main/css/main.css') }}">
+{% endblock %}
+
+{% block header %}
+<header></header>
+{% endblock %}
+
+{% block footer %}
+<footer>
+    <a href="{{ url_for('axf.home') }}" class="home">
+        <dl>
+            <dt>
+                <span></span>
+            </dt>
+            <dd>首页</dd>
+        </dl>
+    </a>
+    <a href="{{ url_for('axf.market', typeid=104749, childcid=0, order_rule=0) }}" class="market">
+        <dl>
+            <dt>
+                <span></span>
+            </dt>
+            <dd>闪购</dd>
+        </dl>
+    </a>
+    <a href="{{ url_for('axf.cart') }}" class="cart">
+        <dl>
+            <dt>
+                <span></span>
+            </dt>
+            <dd>购物车</dd>
+        </dl>
+    </a>
+    <a href="{{ url_for('axf.mine') }}" class="mine_icon">
+        <dl>
+            <dt>
+                <span></span>
+            </dt>
+            <dd>我的</dd>
+        </dl>
+    </a>
+</footer>
+{% endblock %}

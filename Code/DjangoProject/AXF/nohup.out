@@ -1,0 +1,98 @@
+INFO: loading config from /etc/shadowsocks/config.json
+2018-10-19 20:06:55 INFO     loading libcrypto from libcrypto.so.1.1
+2018-10-19 20:06:55 INFO     starting local at 127.0.0.1:1080
+2018-10-19 20:07:00 INFO     connecting pythonhosted.org:443 from 127.0.0.1:43382
+2018-10-19 20:07:00 INFO     connecting s3.amazonaws.com:443 from 127.0.0.1:43384
+2018-10-19 20:07:05 INFO     connecting beacons.gcp.gvt2.com:443 from 127.0.0.1:43430
+2018-10-19 20:07:05 INFO     connecting fonts.gstatic.com:80 from 127.0.0.1:43434
+2018-10-19 20:07:13 INFO     connecting translate.google.com:443 from 127.0.0.1:43500
+2018-10-19 20:07:31 INFO     connecting fonts.gstatic.com:80 from 127.0.0.1:43656
+2018-10-19 20:07:33 INFO     connecting translate.google.com:443 from 127.0.0.1:43666
+2018-10-19 20:07:35 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43686
+2018-10-19 20:07:35 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43698
+2018-10-19 20:07:41 INFO     connecting www.gstatic.com:443 from 127.0.0.1:43742
+2018-10-19 20:07:41 INFO     connecting www.gstatic.com:443 from 127.0.0.1:43744
+2018-10-19 20:07:41 INFO     connecting www.gstatic.com:443 from 127.0.0.1:43758
+2018-10-19 20:07:41 INFO     connecting www.google.com:443 from 127.0.0.1:43762
+2018-10-19 20:07:50 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:07:50 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43830
+2018-10-19 20:07:50 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43834
+2018-10-19 20:07:50 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43838
+2018-10-19 20:07:50 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43842
+2018-10-19 20:07:50 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43846
+2018-10-19 20:07:50 INFO     connecting translate.googleapis.com:443 from 127.0.0.1:43850
+2018-10-19 20:08:30 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:08:30 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:08:30 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:08:30 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:08:30 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:08:30 ERROR    [Errno 104] Connection reset by peer
+2018-10-19 20:08:30 INFO     connecting google.com:443 from 127.0.0.1:44184
+2018-10-19 20:08:31 INFO     connecting beacons5.gvt3.com:443 from 127.0.0.1:44196
+2018-10-19 20:08:46 INFO     connecting beacons.gvt2.com:443 from 127.0.0.1:44322
+2018-10-19 20:10:00 INFO     connecting www.baidu.com:443 from 127.0.0.1:44918
+2018-10-19 20:10:00 INFO     connecting sp0.baidu.com:443 from 127.0.0.1:44930
+2018-10-19 20:10:02 INFO     connecting ss0.baidu.com:443 from 127.0.0.1:44942
+2018-10-19 20:10:02 INFO     connecting ss1.baidu.com:443 from 127.0.0.1:44946
+2018-10-19 20:10:02 INFO     connecting ss2.baidu.com:443 from 127.0.0.1:44950
+2018-10-19 20:10:02 INFO     connecting ss3.baidu.com:443 from 127.0.0.1:44954
+2018-10-19 20:10:02 INFO     connecting sp0.baidu.com:443 from 127.0.0.1:44958
+2018-10-19 20:10:02 INFO     connecting www.baidu.com:443 from 127.0.0.1:44962
+2018-10-19 20:10:02 INFO     connecting sp0.baidu.com:443 from 127.0.0.1:44966
+2018-10-19 20:10:02 INFO     connecting sp0.baidu.com:443 from 127.0.0.1:44970
+2018-10-19 20:10:02 INFO     connecting sp0.baidu.com:443 from 127.0.0.1:44974
+2018-10-19 20:10:02 INFO     connecting sp0.baidu.com:443 from 127.0.0.1:44978
+2018-10-19 20:10:04 INFO     connecting www.baidu.com:443 from 127.0.0.1:44998
+2018-10-19 20:10:04 INFO     connecting www.baidu.com:443 from 127.0.0.1:45002
+2018-10-19 20:10:04 INFO     connecting www.baidu.com:443 from 127.0.0.1:45006
+2018-10-19 20:10:04 INFO     connecting www.baidu.com:443 from 127.0.0.1:45018
+2018-10-19 20:10:08 INFO     connecting www.baidu.com:443 from 127.0.0.1:45046
+2018-10-19 20:10:08 INFO     connecting www.baidu.com:443 from 127.0.0.1:45050
+2018-10-19 20:10:08 INFO     connecting www.baidu.com:443 from 127.0.0.1:45062
+2018-10-19 20:10:09 INFO     connecting www.baidu.com:443 from 127.0.0.1:45066
+2018-10-19 20:10:11 INFO     connecting www.baidu.com:443 from 127.0.0.1:45086
+2018-10-19 20:10:11 INFO     connecting www.baidu.com:443 from 127.0.0.1:45090
+2018-10-19 20:10:11 INFO     connecting www.baidu.com:443 from 127.0.0.1:45094
+2018-10-19 20:10:12 INFO     connecting www.baidu.com:443 from 127.0.0.1:45106
+2018-10-19 20:10:14 INFO     connecting www.baidu.com:443 from 127.0.0.1:45132
+2018-10-19 20:10:14 INFO     connecting www.baidu.com:443 from 127.0.0.1:45136
+2018-10-19 20:10:14 INFO     connecting www.baidu.com:443 from 127.0.0.1:45148
+2018-10-19 20:10:15 INFO     connecting www.baidu.com:443 from 127.0.0.1:45152
+2018-10-19 20:10:15 INFO     connecting www.baidu.com:443 from 127.0.0.1:45156
+2018-10-19 20:10:17 INFO     connecting www.baidu.com:443 from 127.0.0.1:45178
+2018-10-19 20:10:18 INFO     connecting www.baidu.com:443 from 127.0.0.1:45190
+2018-10-19 20:10:20 INFO     connecting www.baidu.com:443 from 127.0.0.1:45210
+2018-10-19 20:10:20 INFO     connecting www.baidu.com:443 from 127.0.0.1:45214
+2018-10-19 20:10:20 INFO     connecting www.baidu.com:443 from 127.0.0.1:45218
+2018-10-19 20:10:20 INFO     connecting www.baidu.com:443 from 127.0.0.1:45224
+2018-10-19 20:10:20 INFO     connecting www.baidu.com:443 from 127.0.0.1:45236
+2018-10-19 20:10:21 INFO     connecting www.baidu.com:443 from 127.0.0.1:45240
+2018-10-19 20:10:23 INFO     connecting www.baidu.com:443 from 127.0.0.1:45260
+2018-10-19 20:10:23 INFO     connecting www.baidu.com:443 from 127.0.0.1:45264
+2018-10-19 20:10:23 INFO     connecting www.baidu.com:443 from 127.0.0.1:45268
+2018-10-19 20:10:23 INFO     connecting www.baidu.com:443 from 127.0.0.1:45280
+2018-10-19 20:10:24 INFO     connecting www.baidu.com:443 from 127.0.0.1:45284
+2018-10-19 20:10:39 INFO     connecting beacons2.gvt2.com:443 from 127.0.0.1:45410
+2018-10-19 20:10:51 INFO     connecting www.baidu.com:443 from 127.0.0.1:45510
+2018-10-19 20:10:51 INFO     connecting www.baidu.com:443 from 127.0.0.1:45514
+2018-10-19 20:10:51 INFO     connecting www.baidu.com:443 from 127.0.0.1:45518
+2018-10-19 20:10:51 INFO     connecting www.baidu.com:443 from 127.0.0.1:45522
+2018-10-19 20:10:53 INFO     connecting ss0.baidu.com:443 from 127.0.0.1:45542
+2018-10-19 20:10:53 INFO     connecting ss2.baidu.com:443 from 127.0.0.1:45544
+2018-10-19 20:10:53 INFO     connecting ss2.baidu.com:443 from 127.0.0.1:45550
+2018-10-19 20:10:53 INFO     connecting ss2.baidu.com:443 from 127.0.0.1:45552
+2018-10-19 20:10:53 INFO     connecting ss0.baidu.com:443 from 127.0.0.1:45558
+2018-10-19 20:10:53 INFO     connecting ss2.baidu.com:443 from 127.0.0.1:45560
+2018-10-19 20:10:53 INFO     connecting ss0.baidu.com:443 from 127.0.0.1:45562
+2018-10-19 20:10:53 INFO     connecting ss2.baidu.com:443 from 127.0.0.1:45564
+2018-10-19 20:10:55 INFO     connecting sp2.baidu.com:443 from 127.0.0.1:45590
+2018-10-19 20:10:55 INFO     connecting ss1.bdstatic.com:443 from 127.0.0.1:45594
+2018-10-19 20:10:58 INFO     connecting www.googleapis.com:443 from 127.0.0.1:45622
+2018-10-19 20:10:58 INFO     connecting www.cnblogs.com:443 from 127.0.0.1:45634
+2018-10-19 20:10:58 INFO     connecting counter.cnblogs.com:443 from 127.0.0.1:45636
+2018-10-19 20:10:58 INFO     connecting common.cnblogs.com:443 from 127.0.0.1:45638
+2018-10-19 20:10:58 INFO     connecting adservice.google.com:443 from 127.0.0.1:45640
+2018-10-19 20:10:58 INFO     connecting static.cnblogs.com:443 from 127.0.0.1:45642
+2018-10-19 20:10:58 INFO     connecting pic.cnblogs.com:443 from 127.0.0.1:45644
+2018-10-19 20:10:59 INFO     connecting clients4.google.com:443 from 127.0.0.1:45666
+2018-10-19 20:17:03 WARNING  timed out: pythonhosted.org:443

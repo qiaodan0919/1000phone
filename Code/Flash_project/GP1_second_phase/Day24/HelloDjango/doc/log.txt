@@ -1,0 +1,12 @@
+ CRITICAL - 2018-10-25 16:06:49,814 - Critical? oh Critical
+ ERROR - 2018-10-25 16:06:49,814 - Error? oh Error
+ WARNING - 2018-10-25 16:06:49,815 - Warning? oh Warning
+ INFO - 2018-10-25 16:06:49,815 - Info? oh Info
+ CRITICAL - 2018-10-25 16:08:16,482 - MainThread -  Critical? oh Critical
+ ERROR - 2018-10-25 16:08:16,482 - MainThread -  Error? oh Error
+ WARNING - 2018-10-25 16:08:16,482 - MainThread -  Warning? oh Warning
+ INFO - 2018-10-25 16:08:16,482 - MainThread -  Info? oh Info
+ CRITICAL - 2018-10-25 16:12:56,650 - MainThread -  Critical? oh Critical
+ ERROR - 2018-10-25 16:12:56,651 - MainThread -  Error? oh Error
+ WARNING - 2018-10-25 16:12:56,651 - MainThread -  Warning? oh Warning
+ INFO - 2018-10-25 16:12:56,651 - MainThread -  Info? oh Info

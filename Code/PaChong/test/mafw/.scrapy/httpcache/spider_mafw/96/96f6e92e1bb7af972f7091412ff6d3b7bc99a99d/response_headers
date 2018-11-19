@@ -1,0 +1,13 @@
+Server: nginx
+Date: Fri, 09 Nov 2018 04:14:05 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Sid: 2.205
+X-Pid: 25589
+Set-Cookie: PHPSESSID=0cia7c1s7ju698u5mj4582u925; path=/; domain=.mafengwo.cn; HttpOnly
+Set-Cookie: mfw_uuid=5be5098c-bdac-13cc-244d-ae02cf11dd98; expires=Sat, 09-Nov-2019 04:14:04 GMT; Max-Age=31536000; path=/; domain=.mafengwo.cn
+Set-Cookie: oad_n=a%3A3%3A%7Bs%3A3%3A%22oid%22%3Bi%3A1029%3Bs%3A2%3A%22dm%22%3Bs%3A15%3A%22www.mafengwo.cn%22%3Bs%3A2%3A%22ft%22%3Bs%3A19%3A%222018-11-09+12%3A14%3A04%22%3B%7D; expires=Fri, 16-Nov-2018 04:14:04 GMT; Max-Age=604800; path=/; domain=.mafengwo.cn
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip

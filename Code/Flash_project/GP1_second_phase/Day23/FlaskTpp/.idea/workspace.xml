@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2b84d4f-b293-41d0-905f-8ddb447ba4d3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FlaskProject$SpiderLearn.coverage" NAME="SpiderLearn Coverage Results" MODIFIED="1539832279449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+    <SUITE FILE_PATH="coverage/FlaskProject$SendSMS.coverage" NAME="SendSMS Coverage Results" MODIFIED="1539849315077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+    <SUITE FILE_PATH="coverage/FlaskTpp$InsertCities.coverage" NAME="InsertCities Coverage Results" MODIFIED="1540276112058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+    <SUITE FILE_PATH="coverage/FlaskAPI$HelloSpider.coverage" NAME="HelloSpider Coverage Results" MODIFIED="1539931511903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+    <SUITE FILE_PATH="coverage/FlaskTpp$HelloDecrator.coverage" NAME="HelloDecrator Coverage Results" MODIFIED="1540263003011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+    <SUITE FILE_PATH="coverage/FlaskProject$HelloProperty.coverage" NAME="HelloProperty Coverage Results" MODIFIED="1539844486994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="GP1FlaskTpp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="GP1FlaskTpp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="GP1FlaskTpp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="GP1FlaskTpp: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2003367679">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="permissions" value="1" />
+          <entry key="py" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="32" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://DATABASE/0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.permissions">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.permissions</OriginalElement>
+              <nodes>
+                <node x="352.875" y="622.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies</node>
+                <node x="0.0" y="1041.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_user</node>
+                <node x="507.25" y="1077.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie</node>
+                <node x="135.875" y="742.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall</node>
+                <node x="135.875" y="227.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address</node>
+                <node x="329.875" y="0.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user</node>
+                <node x="109.5" y="1268.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_order</node>
+                <node x="237.0" y="1065.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies">
+                  <point x="-47.5" y="-52.5" />
+                  <point x="554.75" y="1016.0" />
+                  <point x="562.125" y="1016.0" />
+                  <point x="69.75" y="184.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+                  <point x="47.5" y="-52.5" />
+                  <point x="649.75" y="1016.0" />
+                  <point x="642.375" y="1016.0" />
+                  <point x="642.375" y="202.0" />
+                  <point x="492.625" y="202.0" />
+                  <point x="54.25" y="88.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+                  <point x="0.0" y="-172.5" />
+                  <point x="234.375" y="202.0" />
+                  <point x="384.125" y="202.0" />
+                  <point x="-54.25" y="88.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies">
+                  <point x="45.75" y="-64.5" />
+                  <point x="374.25" y="1016.0" />
+                  <point x="422.625" y="1016.0" />
+                  <point x="-69.75" y="184.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_order" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_user">
+                  <point x="-54.5" y="-100.5" />
+                  <point x="164.0" y="1243.0" />
+                  <point x="108.5" y="1243.0" />
+                  <point x="0.0" y="88.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address">
+                  <point x="0.0" y="-64.5" />
+                  <point x="0.0" y="172.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_order" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie">
+                  <point x="54.5" y="-100.5" />
+                  <point x="273.0" y="1243.0" />
+                  <point x="328.5" y="1243.0" />
+                  <point x="0.0" y="64.5" />
+                </edge>
+                <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall">
+                  <point x="-45.75" y="-64.5" />
+                  <point x="282.75" y="1016.0" />
+                  <point x="234.375" y="1016.0" />
+                  <point x="0.0" y="64.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.3331020124913255" x="686.1989583333333" y="1275.3989583333332" />
+              <SelectedNodes>
+                <node>0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/apis/movie_user/movie_hall_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="80" selection-start-line="80" selection-end-line="86" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/apis/movie_user/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/App/models.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/hello_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_admin/__init__.py" />
+        <option value="$PROJECT_DIR$/App/models/movie_user/model_constant.py" />
+        <option value="$PROJECT_DIR$/App/models/movie_user/__init__.py" />
+        <option value="$PROJECT_DIR$/App/apis/api_constant.py" />
+        <option value="$PROJECT_DIR$/doc/Note.md" />
+        <option value="$PROJECT_DIR$/doc/code/HelloDecrator.py" />
+        <option value="$PROJECT_DIR$/App/models/movie_user/movie_user_model.py" />
+        <option value="$PROJECT_DIR$/doc/code/data/cities.json" />
+        <option value="$PROJECT_DIR$/App/models/common/__init__.py" />
+        <option value="$PROJECT_DIR$/App/models/common/city_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/__init__.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0340a9e2-993c-4b4f-80b2-118f2d4c3523/console.sql" />
+        <option value="$PROJECT_DIR$/doc/code/InsertCities.py" />
+        <option value="$PROJECT_DIR$/App/apis/common/city_api.py" />
+        <option value="$PROJECT_DIR$/App/models/admin/admin_user_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/model_utils.py" />
+        <option value="$PROJECT_DIR$/App/apis/admin/model_utils.py" />
+        <option value="$PROJECT_DIR$/App/models/__init__.py" />
+        <option value="$PROJECT_DIR$/App/models/common/movie_model.py" />
+        <option value="$PROJECT_DIR$/App/utils.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/movie_user_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/admin/admin_user_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/utils.py" />
+        <option value="$PROJECT_DIR$/App/apis/admin/utils.py" />
+        <option value="$PROJECT_DIR$/App/apis/common/__init__.py" />
+        <option value="$PROJECT_DIR$/App/settings.py" />
+        <option value="$PROJECT_DIR$/App/apis/common/utils.py" />
+        <option value="$PROJECT_DIR$/App/apis/common/movie_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/model_utils.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/cinema_user_api.py" />
+        <option value="$PROJECT_DIR$/App/models/cinema_admin/cinema_address_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/utils.py" />
+        <option value="$PROJECT_DIR$/App/models/cinema_admin/permissions_constant.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/cinema_address_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/admin/cinema_auth_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/admin/__init__.py" />
+        <option value="$PROJECT_DIR$/App/models/cinema_admin/cinema_user_model.py" />
+        <option value="$PROJECT_DIR$/App/models/cinema_admin/cinema_movie_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/cinema_movie_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/cinema_hall_api.py" />
+        <option value="$PROJECT_DIR$/App/models/cinema_admin/cinema_hall_movie_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/cinema_movie_hall_api.py" />
+        <option value="$PROJECT_DIR$/App/models/cinema_admin/cinema_hall_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/movie_api.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/__init__.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/movie_order_api.py" />
+        <option value="$PROJECT_DIR$/App/models/movie_user/movie_order_model.py" />
+        <option value="$PROJECT_DIR$/App/apis/cinema_admin/__init__.py" />
+        <option value="$PROJECT_DIR$/App/apis/movie_user/movie_hall_api.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="961" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FlaskTpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlaskTpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlaskTpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlaskTpp" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Practice/FlaskTpp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App/apis/cinema_admin" />
+      <recent name="$PROJECT_DIR$/App/apis/admin" />
+      <recent name="$PROJECT_DIR$/App/static/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.InsertCities">
+    <configuration name="HelloDecrator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskTpp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/code/HelloDecrator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/code/HelloSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InsertCities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskTpp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/code/InsertCities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="FlaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="FlaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="FlaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="FlaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HelloSpider" />
+      <item itemvalue="Python.HelloDecrator" />
+      <item itemvalue="Python.InsertCities" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.InsertCities" />
+        <item itemvalue="Python.HelloDecrator" />
+        <item itemvalue="Python.HelloSpider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2b84d4f-b293-41d0-905f-8ddb447ba4d3" name="Default" comment="" />
+      <created>1539571396415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539571396415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="961" height="1053" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26344675" />
+      <window_info id="Structure" order="1" weight="0.24308152" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39328858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6697987" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32885906" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.24368826" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App/models/admin/admin_user_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/common/movie_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="52" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="119" column="16" selection-start-line="119" selection-end-line="119" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/static/uploads/icons/bd_logo1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="das://table:/195a5484/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.admin_user" />
+    <entry file="file://$PROJECT_DIR$/App/apis/common/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/195a5484/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.movies" />
+    <entry file="file://$PROJECT_DIR$/App/apis/admin/model_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/common/city_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/movie_user/movie_user_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" selection-start-line="13" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/admin/admin_user_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/movie_user/movie_user_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="75" lean-forward="true" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/movie_user/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.permissions" />
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.cinema_user_permission" />
+    <entry file="das://src:table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.movies" />
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.cinema_movie" />
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.hall" />
+    <entry file="file://$PROJECT_DIR$/App/models/common/city_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="63" lean-forward="true" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/movie_user/model_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.movies" />
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.cinema_address" />
+    <entry file="uml://DATABASE/0340a9e2-993c-4b4f-80b2-118f2d4c3523.SCHEMA:GP1FlaskTpp">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>0340a9e2-993c-4b4f-80b2-118f2d4c3523.SCHEMA:GP1FlaskTpp</OriginalElement>
+          <nodes>
+            <node x="884.8738568617238" y="312.7516930022573">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user_permission</node>
+            <node x="223.99999999999997" y="254.0536551484633">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies</node>
+            <node x="814.8259897551659" y="580.2496093071713">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie</node>
+            <node x="0.0" y="820.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall</node>
+            <node x="0.5" y="248.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address</node>
+            <node x="399.95" y="0.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user</node>
+            <node x="533.8138855125312" y="731.5629449557214">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie</node>
+            <node x="1044.8333116281765" y="54.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.permissions</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user_permission" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+              <point x="-56.5" y="-58.5" />
+              <point x="627.9583333333334" y="223.0" />
+              <point x="585.7833333333333" y="223.0" />
+              <point x="74.33333333333331" y="99.0" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies">
+              <point x="-49.0" y="-58.5" />
+              <point x="674.6959324535509" y="482.30873415523524" />
+              <point x="664.4079267233894" y="482.30873415523524" />
+              <point x="70.25" y="207.0" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user_permission" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.permissions">
+              <point x="56.5" y="-58.5" />
+              <point x="0.0" y="45.0" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+              <point x="0.0" y="-193.5" />
+              <point x="102.0" y="223.0" />
+              <point x="437.1166666666667" y="223.0" />
+              <point x="-74.33333333333331" y="99.0" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+              <point x="49.0" y="-58.5" />
+              <point x="825.3821627018581" y="443.1317937141864" />
+              <point x="778.9311512415351" y="390.44556346587933" />
+              <point x="515.5" y="223.0" />
+              <point x="511.45" y="223.0" />
+              <point x="0.0" y="99.0" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies">
+              <point x="47.0" y="-72.0" />
+              <point x="611.3202234184176" y="672.7897204375759" />
+              <point x="421.23732418822715" y="760.6001041847544" />
+              <point x="-70.25" y="207.0" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address">
+              <point x="0.0" y="-72.0" />
+              <point x="0.0" y="193.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall">
+              <point x="-47.0" y="-72.0" />
+              <point x="329.54109509752857" y="860.5688487584652" />
+              <point x="262.7605487063727" y="886.2364993922555" />
+              <point x="0.0" y="72.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7402313624678662" x="304.0" y="329.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.movie_user" />
+    <entry file="file:///usr/lib/python3.5/datetime.py" />
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.hall_movie" />
+    <entry file="das://table:/da3c5a3/0340a9e2-993c-4b4f-80b2-118f2d4c3523/GP1FlaskTpp.movie_order" />
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/cinema_user_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/movie_user/movie_order_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/cinema_user_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="90" column="34" lean-forward="true" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/model_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/cinema_address_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/permissions_constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/common/movie_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" selection-start-line="36" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/cinema_address_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/cinema_movie_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="67" lean-forward="true" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/cinema_hall_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/cinema_movie_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/cinema_hall_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models/cinema_admin/cinema_hall_movie_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" selection-start-line="6" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/cinema_admin/cinema_movie_hall_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/admin/cinema_auth_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="80" column="55" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="80" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/movie_user/movie_order_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/movie_user/movie_hall_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="80" selection-start-line="80" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apis/movie_user/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.permissions">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.permissions</OriginalElement>
+          <nodes>
+            <node x="352.875" y="622.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies</node>
+            <node x="0.0" y="1041.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_user</node>
+            <node x="507.25" y="1077.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie</node>
+            <node x="135.875" y="742.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall</node>
+            <node x="135.875" y="227.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address</node>
+            <node x="329.875" y="0.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user</node>
+            <node x="109.5" y="1268.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_order</node>
+            <node x="237.0" y="1065.0">0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies">
+              <point x="-47.5" y="-52.5" />
+              <point x="554.75" y="1016.0" />
+              <point x="562.125" y="1016.0" />
+              <point x="69.75" y="184.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+              <point x="47.5" y="-52.5" />
+              <point x="649.75" y="1016.0" />
+              <point x="642.375" y="1016.0" />
+              <point x="642.375" y="202.0" />
+              <point x="492.625" y="202.0" />
+              <point x="54.25" y="88.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_user">
+              <point x="0.0" y="-172.5" />
+              <point x="234.375" y="202.0" />
+              <point x="384.125" y="202.0" />
+              <point x="-54.25" y="88.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movies">
+              <point x="45.75" y="-64.5" />
+              <point x="374.25" y="1016.0" />
+              <point x="422.625" y="1016.0" />
+              <point x="-69.75" y="184.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_order" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_user">
+              <point x="-54.5" y="-100.5" />
+              <point x="164.0" y="1243.0" />
+              <point x="108.5" y="1243.0" />
+              <point x="0.0" y="88.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.cinema_address">
+              <point x="0.0" y="-64.5" />
+              <point x="0.0" y="172.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.movie_order" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie">
+              <point x="54.5" y="-100.5" />
+              <point x="273.0" y="1243.0" />
+              <point x="328.5" y="1243.0" />
+              <point x="0.0" y="64.5" />
+            </edge>
+            <edge source="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie" target="0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall">
+              <point x="-45.75" y="-64.5" />
+              <point x="282.75" y="1016.0" />
+              <point x="234.375" y="1016.0" />
+              <point x="0.0" y="64.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.3331020124913255" x="686.1989583333333" y="1275.3989583333332" />
+          <SelectedNodes>
+            <node>0340a9e2-993c-4b4f-80b2-118f2d4c3523.TABLE:GP1FlaskTpp.hall_movie</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
